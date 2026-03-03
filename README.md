@@ -70,6 +70,6 @@ Here are some ideas to get you started:
 
 ### 📫 Let’s Connect
 
-    💼 LinkedIn
+    💼 LinkedIn: https://www.linkedin.com/in/prado91
 
     📧 Email: DorugadeP@gmail.com
