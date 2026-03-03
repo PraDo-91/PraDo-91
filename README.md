@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Senior Data Analyst | Banking & Financial Services | Open to New Opportunities
+### Senior Data Analyst | Banking & Financial Services | Oracle SQL | Regulatory & Audit Reporting | Power BI (Beginner) | Open to New Opportunities
 
     💼 Currently working as a Senior Data Analyst supporting IndusInd Bank (Credit Cards) via Moksha Softlabs
     
