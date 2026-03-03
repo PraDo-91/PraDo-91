@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Senior Data Analyst | Banking & Financial Services
+### Senior Data Analyst | Banking & Financial Services | Open to New Opportunities
 
     💼 Currently working as a Senior Data Analyst supporting IndusInd Bank (Credit Cards) via Moksha Softlabs
     
